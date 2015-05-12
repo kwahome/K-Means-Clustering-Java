@@ -1,0 +1,25 @@
+Machine Learning Programming Task
+
+
+-Work in Groups of Max 3
+
+TASK:
+Using the Heart and Diabetes datasets that are provided,implement an algorithm and see the performance.
+For both datasets there is a data file and a decription of the data.
+
+Instructions:
+1. Implement the K-nearest Neighbour (k-NN) classification algorithm using any programming language of your choice.
+You should be able to read a file with the data. You should also be able to assign weights to each attribute. 
+2. From the data file, Randomly create 2 files -training and testing files - Training (70%) and Testing sets of (30%). 
+
+How would you identify the relevant attributes?
+Use k values of 1, 3, 5, 7, 9.  Compare your results.
+Use varying weights on the attributes and see the impact.
+Compare the accuracy values you get and discuss.
+
+
+
+
+
+
+
